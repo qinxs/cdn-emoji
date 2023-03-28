@@ -1,12 +1,18 @@
-18禁.png
+微笑.png
+偷笑.png
+大金牙.png
+泣不成声.png
+捂脸.png
+狗头.png
+呆无辜.png
 666.png
+18禁.png
 OK.png
 V5.png
 不失礼貌的微笑.png
 亲亲.png
 便便.png
 做鬼脸.png
-偷笑.png
 凋谢.png
 击掌.png
 加好友.png
@@ -22,7 +28,6 @@ V5.png
 吐.png
 吐彩虹.png
 吐舌.png
-呆无辜.png
 呲牙.png
 咒骂.png
 咖啡.png
@@ -34,7 +39,6 @@ V5.png
 困.png
 坏笑.png
 大笑.png
-大金牙.png
 太阳.png
 奋斗.png
 奸笑.png
@@ -49,7 +53,6 @@ V5.png
 弱.png
 强壮.png
 得意.png
-微笑.png
 心碎.png
 快哭了.png
 思考.png
@@ -64,7 +67,6 @@ V5.png
 抓狂.png
 抠鼻.png
 抱拳.png
-捂脸.png
 握手.png
 摸头.png
 撇嘴.png
@@ -73,7 +75,6 @@ V5.png
 晕.png
 月亮.png
 比心.png
-泣不成声.png
 泪奔.png
 派对.png
 流泪.png
@@ -84,7 +85,6 @@ V5.png
 生病.png
 白眼.png
 皱眉.png
-看.png
 睡.png
 石化.png
 碰拳.png
